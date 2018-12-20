@@ -57,3 +57,5 @@ group :development do
   gem 'letter_opener_web'
 end
 gem 'rails_12factor', group: :production
+gem 'rails_admin', '~> 1.3'
+gem 'cancancan', '~> 2.0'
